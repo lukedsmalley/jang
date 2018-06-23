@@ -1,0 +1,11 @@
+{
+  "name": "jang",
+  "version": "1.0.0",
+  "description": "String processing for people with no taste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Smalley",
+  "license": "MIT"
+}
