@@ -4,9 +4,9 @@ const lex = require('lib/lex')
 const parse = require('lib/parse')
 
 module.exports = {
-    util: util,
-    lex: lex,
-    parse: parse,
+    util,
+    lex,
+    parse,
 
     StringLocation: util.StringLocation,
     Token: util.Token,
